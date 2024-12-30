@@ -43,10 +43,10 @@
 </p>
 
 <br>
-<a href="https://yourportfolio.com" target="_blank">
+<a href="https://abdullahrahman89.github.io/My_Portfolio/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0080FE&logoColor=white&labelColor=&style=plastic" height="25" alt="Portfolio">
 </a>
-<a href="https://drive.google.com/uc?export=view&id=yourresumeID">
+<a href="https://drive.google.com/file/d/1iz1nE6exrqtlNXBMof2K_QmuVwovNOzu/view?usp=sharing">
   <img src="https://img.shields.io/static/v1?message=Resume/CV&logo=googledrive&label=&color=fff&logoColor=0080FE&labelColor=white&style=plastic" height="25" alt="Resume/CV">
 </a>
 
